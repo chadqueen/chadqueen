@@ -12,8 +12,8 @@
 ## :bike: Info
 
 <div style="margin: 200px">
-  <p>- 🔭 I’m currently working on launching APIs for advanced structural and additive manufacturing simulation algorithms</p>
-  <p>- 🌱 I’m currently learning .NET MAUI</p>
+  <p>- 🔭 I’m currently working on building remote geometry CAD modeling Python APIs for CAE simulation workflows</p>
+  <p>- 🌱 I’m currently learning .NET 7 and .NET MAUI</p>
   <p>- 👯 I’m looking to collaborate on startup ideas in advanced technologies or early childhood education and development</p>
   <p>- ⚡ Fun fact: The inventor of ctrl+alt+del taught my data structures course at NC State University</p>
   <p>- 💬 Ask me about the last book I read</p>
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="35" height="35"/>&nbsp;
   
