@@ -12,11 +12,8 @@
 ## :bike: Info
 
 <div style="margin: 200px">
-  <p>- 🔭 I’m currently working on building remote geometry CAD modeling Python APIs for CAE simulation workflows</p>
-  <p>- 🌱 I’m currently learning .NET 7 and .NET MAUI</p>
-  <p>- 👯 I’m looking to collaborate on startup ideas in advanced technologies or early childhood education and development</p>
+  <p>- 👯 I’m looking to collaborate on AI or early childhood education and development startup ideas</p>
   <p>- ⚡ Fun fact: The inventor of ctrl+alt+del taught my data structures course at NC State University</p>
-  <p>- 💬 Ask me about the last book I read</p>
 </div>
 
 <!--
