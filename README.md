@@ -38,8 +38,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg" title="EntityFramework" alt="Angular" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-plain.svg" title="Angular" alt="Angular" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="Angular" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Angular" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="35" height="35"/>&nbsp;
   
   
